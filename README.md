@@ -134,4 +134,4 @@ docs/                      immagini del README
 
 ---
 
-Ideato e progettato da Federica Cutrera, costruito con [Claude Code](https://claude.com/claude-code).
+Ideato e progettato da [Federica Cutrera] (https://www.linkedin.com/in/federica-cutrera/), costruito con [Claude Code](https://claude.com/claude-code).
