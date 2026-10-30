@@ -1,0 +1,4 @@
+{"items": [{"name": "Folletto", "priority": 0, "items": [
+  {"name": "Avvia dashboard", "priority": 1, "action": "bin/avvia.sh"},
+  {"name": "Ferma dashboard", "priority": 2, "action": "bin/ferma.sh"}
+]}]}

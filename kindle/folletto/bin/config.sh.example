@@ -1,0 +1,5 @@
+# Generato da install.sh: non serve modificarlo a mano.
+# ORIENTAMENTO: verticale | sinistra (orizzontale, porta di ricarica a sinistra) | destra
+ORIENTAMENTO=verticale
+URL="http://192.168.1.10:8765/dash.png?o=$ORIENTAMENTO"
+INTERVALLO=120   # secondi tra un aggiornamento e l'altro
